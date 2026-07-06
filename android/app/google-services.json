@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "81679098200",
+    "project_id": "quickcart-dc255",
+    "storage_bucket": "quickcart-dc255.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81679098200:android:6efe6b90df87386243452d",
+        "android_client_info": {
+          "package_name": "com.quickcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81679098200-h6apo2moof4qn2nlfklvk1l9hq5bbfkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickcart",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "81679098200-450vh89jkqrqhuoopl0mhjti5a5qc5di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1FU6PYSSKPtV5-zYK78UsXaXKQ7Eho38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81679098200-450vh89jkqrqhuoopl0mhjti5a5qc5di.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81679098200-al72j358ob20gpgn4uo0m9ud6fqmi2t3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.QuickCart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
